@@ -1,0 +1,23 @@
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover:-webkit-any-link{
+    color: #0a58ca;
+}
+p{
+    font-size: 18px;
+}
+.wrap{
+    position: relative;
+}
+.button{
+    position: absolute;
+    top:40%;
+
+}
+.transform:hover{
+    transform:scale(1.1)
+
+}
